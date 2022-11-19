@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="448dba25-357f-4b4b-a970-2c731e962f8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Team105Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Q1_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/Q2_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q1_TasKagitMakas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q2_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/Q3_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Q21.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HlnNUI1EPHJQzOZddG4IaPjIvz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="448dba25-357f-4b4b-a970-2c731e962f8d" name="Changes" comment="" />
+      <created>1668868499781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668868499781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
